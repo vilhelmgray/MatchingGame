@@ -1,0 +1,59 @@
+========================================================================
+========================================================================
+************************************************************************
+                              Matching Game
+************************************************************************
+                  Programmed by William Breathitt Gray
+                 Copyright 2010 William Breathitt Gray
+========================================================================
+========================================================================
+
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+                           Table of Contents
+////////////////////////////////////////////////////////////////////////
+I. Instructions
+II. Licensing
+III. Contact
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+////////////////////////////////////////////////////////////////////////
+
+
+========================================================================
+                         I. Instructions
+========================================================================
+1. Execute the .jar file to start the game.
+2. Chose the number of colors to match.
+3. Click on a square to show its color, then on another square. If the
+   colors of the two squares match, those squares stay activated.
+4. When you've matched all the colors, you win!
+========================================================================
+
+
+========================================================================
+                             II. Licensing
+========================================================================
+Copyright (C) 2010 William Breathitt Gray <vilhelm.gray@gmail.com>
+This file is part of Matching Game.
+ 
+Matching Game is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+Matching Game is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+ 
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+========================================================================
+
+
+========================================================================
+                              III. Contact
+========================================================================
+Email: vilhelm.gray@gmail.com
+========================================================================
