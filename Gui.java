@@ -194,7 +194,7 @@ public class Gui extends JFrame implements ActionListener
 		{
 			int i = Integer.parseInt(e.getActionCommand());
 			buttons.get(i).setBackground(cards.get(i).getColor()); //show card color
-			if(clicked) //if we already have a card selected
+			if(clicked && i != choosen) //if we already have a card selected and second click is on a different card
 			{
 				//System.out.println(cards.get(choosen).getName() + ":" + cards.get(i).getName());
 				if(cards.get(choosen).getName() != cards.get(i).getName()) //if the cards do not match
