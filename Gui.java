@@ -199,6 +199,7 @@ public class Gui extends JFrame implements ActionListener
 				//System.out.println(cards.get(choosen).getName() + ":" + cards.get(i).getName());
 				if(cards.get(choosen).getName() != cards.get(i).getName()) //if the cards do not match
 				{
+                                        buttons.get(i).paintImmediately(buttons.get(i).getVisibleRect());
 					try{
 						Thread.sleep(100); //let the user see their error
 					}
