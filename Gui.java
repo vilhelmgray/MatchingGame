@@ -201,7 +201,7 @@ public class Gui extends JFrame implements ActionListener
 				{
                                         buttons.get(i).paintImmediately(buttons.get(i).getVisibleRect());
 					try{
-						Thread.sleep(100); //let the user see their error
+						Thread.sleep(500); //let the user see their error
 					}
 					catch(Exception ex)
 					{
